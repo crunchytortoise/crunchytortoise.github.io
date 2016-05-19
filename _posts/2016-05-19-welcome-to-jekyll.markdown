@@ -8,25 +8,25 @@ categories: learnding
 Hey! First post. I'll continue to come back and add to this list, but this is my collection of interactive tutorials / learning sites and some comments about getting started with programming.
 My SO is doing a bit of progamming so I decided I'd write about this.
 
-#Interactive Command Line Tutorials
+## Interactive Command Line Tutorials
 Javascript: nodeschool.io 
 R Programming: https://github.com/DataScienceSpecialization/courses
 
-#Online interactive Tutorials
+## Online interactive Tutorials
 codecademy.com
 codeschool.com
 
-#Web ProblemSets (Do some everyday!)
+## Web ProblemSets (Do some everyday!)
 checkio.org
 empireofcode.org (Boombeach with code. Amazing)
 hackerrank.com
 codeforces
 
-#Security ProblemSets
+## Security ProblemSets
 overthewire.com
 pawnable.kr (A found one or two that was made difficult because of the distance between the US and Korea)
 
-#Doc management
+## Doc management
 Dash (Set it to a hotkey and quickly search through docs while coding. Saves a lot of time)
 
 
